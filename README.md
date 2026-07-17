@@ -1,16 +1,60 @@
-## Hi there 👋
+# Md. Abul Hasnat
 
-<!--
-**Hasnat26/Hasnat26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PMP® Certified Project Manager | ABB | Industrial Automation | DCS | SCADA | EPC Delivery | AI for Engineering
 
-Here are some ideas to get you started:
+Project Manager with 14+ years of experience delivering Industrial Automation, DCS, SCADA, Electrification, and EPC projects across Cement, Steel, Paper, Oil & Gas, and Process Industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile is dedicated to AI for Engineering, technical documentation, project management resources, and practical engineering solutions based on industrial project experience.
+
+---
+
+## Core Expertise
+
+- Industrial Automation
+- ABB Ability™ System 800xA DCS
+- DCS & SCADA Systems
+- Functional Design Specifications (FDS)
+- Factory Acceptance Test (FAT)
+- Site Acceptance Test (SAT)
+- Commissioning & Start-up
+- EPC Project Delivery
+- Project Planning & Controls
+- Technical Documentation
+- AI for Engineering
+- Digital Transformation
+
+---
+
+## Featured Projects
+
+- AI Job Search Automation
+
+---
+
+## Industries
+
+- Cement
+- Steel
+- Paper
+- Oil & Gas
+- Process Industries
+
+---
+
+## Current Focus
+
+- Applying AI to engineering workflows
+- AI-assisted technical documentation
+- Engineering knowledge management
+- Project delivery optimization
+- Automation project digitalization
+
+---
+
+## Connect
+
+📍 Dhaka, Bangladesh
+
+💼 Project Manager, ABB
+
+🔗 LinkedIn: https://linkedin.com/in/hasnat26
