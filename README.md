@@ -1,6 +1,6 @@
 # Md. Abul Hasnat
 
-## PMP® Certified Project Manager | ABB | Industrial Automation | DCS | SCADA | EPC Delivery | AI for Engineering
+## PMP® Certified Project Manager | Industrial Automation | DCS | SCADA | AI for Engineering
 
 Project Manager with 14+ years of experience delivering Industrial Automation, DCS, SCADA, Electrification, and EPC projects across Cement, Steel, Paper, Oil & Gas, and Process Industries.
 
@@ -27,7 +27,7 @@ This GitHub profile is dedicated to AI for Engineering, technical documentation,
 
 ## Featured Projects
 
-- AI Job Search Automation
+- [AI Job Search Automation](https://github.com/Hasnat26/job-search-automation)
 
 ---
 
